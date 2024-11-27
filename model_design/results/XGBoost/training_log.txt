@@ -1,0 +1,3 @@
+Training XGBoost...
+Average Accuracy: 0.8196721311475411
+Average ROC AUC: 0.9073275862068966

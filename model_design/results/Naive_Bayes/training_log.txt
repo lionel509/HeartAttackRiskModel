@@ -1,0 +1,3 @@
+Training Naive Bayes...
+Average Accuracy: 0.8688524590163935
+Average ROC AUC: 0.8943965517241381

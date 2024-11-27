@@ -1,0 +1,3 @@
+Training LDA...
+Average Accuracy: 0.8688524590163935
+Average ROC AUC: 0.935344827586207
