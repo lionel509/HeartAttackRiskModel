@@ -1,3 +1,3 @@
 Training AdaBoost...
-Average Accuracy: 0.8032786885245902
-Average ROC AUC: 0.8588362068965518
+Average Accuracy: 0.8196721311475411
+Average ROC AUC: 0.9148706896551724
