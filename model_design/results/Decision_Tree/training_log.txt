@@ -1,3 +1,3 @@
 Training Decision Tree...
 Average Accuracy: 0.8262295081967214
-Average ROC AUC: 0.8295258620689656
+Average ROC AUC: 0.8301724137931036
