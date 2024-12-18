@@ -1,3 +1,7 @@
 Training Random Forest...
 Average Accuracy: 0.8524590163934427
+<<<<<<< HEAD
 Average ROC AUC: 0.9324353448275863
+=======
+Average ROC AUC: 0.9311422413793103
+>>>>>>> 135afad46e6a06a5ac1f1a640f6f3d24e6268c41
