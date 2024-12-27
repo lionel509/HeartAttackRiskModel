@@ -63,18 +63,22 @@ matplotlib
 seaborn
 tensorflow
 keras-tuner
+```
 
 # useage 
 
 ## 1. install dependicites 
 ```bash 
 pip install -r requirements.txt
+```
 
 ## 2. Run comparsion model
 ```bash 
 jupyter notebook model_design/ML_model_comparison.ipynb
+```
 
 ## or Train neural network 
 
 ```bash 
 jupyter notebook Prediction/main.ipynb
+```
