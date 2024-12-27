@@ -1,3 +1,7 @@
 Training Gradient Boosting...
 Average Accuracy: 0.7868852459016393
+<<<<<<< HEAD
+Average ROC AUC: 0.903448275862069
+=======
 Average ROC AUC: 0.9032327586206896
+>>>>>>> 135afad46e6a06a5ac1f1a640f6f3d24e6268c41

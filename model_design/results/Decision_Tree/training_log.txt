@@ -1,3 +1,13 @@
 Training Decision Tree...
+<<<<<<< HEAD
 Average Accuracy: 0.8295081967213115
 Average ROC AUC: 0.8323275862068964
+=======
+<<<<<<< HEAD
+Average Accuracy: 0.8262295081967214
+Average ROC AUC: 0.8301724137931036
+=======
+Average Accuracy: 0.8229508196721312
+Average ROC AUC: 0.8264008620689657
+>>>>>>> 135afad46e6a06a5ac1f1a640f6f3d24e6268c41
+>>>>>>> 815b21cf80511c055b707714c85517e732883da8
