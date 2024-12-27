@@ -65,7 +65,7 @@ tensorflow
 keras-tuner
 ```
 
-# useage 
+# Useage 
 
 ## 1. install dependicites 
 ```bash 
